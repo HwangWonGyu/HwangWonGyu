@@ -1,5 +1,7 @@
 ### 🤔
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://beststar-1.tistory.com/)](https://beststar-1.tistory.com/)
+
 [![HwangWonGyu's github stats](https://github-readme-stats.vercel.app/api?username=HwangWonGyu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
